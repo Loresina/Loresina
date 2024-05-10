@@ -1,4 +1,5 @@
-### Hi there 👋
+[### Hi there 👋](https://www.codewars.com/users/Loresina/badges/micro)
+https://www.codewars.com/users/Loresina/badges/micro
 
 <!--
 **Loresina/Loresina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
