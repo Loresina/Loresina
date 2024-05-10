@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/Loresina/badges/large" />
+<img src="https://www.codewars.com/users/Loresina/badges/small" />
 
 <!--
 ### Hi there 👋
